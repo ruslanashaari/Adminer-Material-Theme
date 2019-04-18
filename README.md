@@ -1,4 +1,4 @@
-# Adminer-Material-Theme
+# Adminer-Material-Theme [BLACK]
 
 An Adminer theme inspired by material design.
 
